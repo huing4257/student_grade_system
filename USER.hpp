@@ -12,6 +12,5 @@ private:
     char* username;
     int *id;
     char* password;
-
 };
 #endif //STUDENT_GRADE_SYSTEM_USER_H
